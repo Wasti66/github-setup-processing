@@ -1,0 +1,6 @@
+* Working directory
+mkdir myfolder
+cd myfolder
+ls
+ls -a
+touch myfile.text
