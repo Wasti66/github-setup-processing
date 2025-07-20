@@ -1,6 +1,31 @@
+git config --global user.name Wazihatulla Wasti
+git config --global user.name
+git config --global user.email 08wasti@gmail.com
+git config --global user.email
+
+
 * Working directory
 mkdir myfolder
 cd myfolder
 ls
 ls -a
 touch myfile.text
+
+
+git init
+git add .
+git status(optioanl)
+git commit -m"first project done"
+git branch -M main
+git remote add origin (remote url)
+git push -u origin main
+
+
+============= update ===============
+git add .
+git commit -m"I have changed something"
+git push
+
+
+
+github default code : 1
